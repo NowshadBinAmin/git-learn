@@ -1,7 +1,9 @@
-git add .
+git add "Updated file" :: Used for upadating specific changes.
 
-git status
+git add . :: Used for upadating all changes.
 
-git commit -m "Message"
+git status :: Check the upadates / Modifed Status.
 
-git push
+git commit -m "Message" :: Upadate Information / Track.
+
+git push :: Used for Uploading to Git.
